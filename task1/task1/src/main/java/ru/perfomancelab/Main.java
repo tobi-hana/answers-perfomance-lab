@@ -1,7 +1,7 @@
 package ru.perfomancelab;
 
 
-public class Main1 {
+public class Main {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
         int m = Integer.parseInt(args[1]);
