@@ -1,4 +1,4 @@
-package ru.perfomancelab.task3;
+package ru.perfomancelab;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
-public class MainApp3 {
+public class Main {
 
     public static void main(String[] args) {
 
