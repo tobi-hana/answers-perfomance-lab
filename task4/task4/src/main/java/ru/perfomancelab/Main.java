@@ -1,10 +1,9 @@
-package ru.perfomancelab.task4;
+package ru.perfomancelab;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
-public class MainApp4 {
+public class Main {
     public static void main(String[] args) {
         ArrayList<Integer> nums = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader(args[0]))) {
